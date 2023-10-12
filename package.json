@@ -1,0 +1,29 @@
+{
+  "name": "video-generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulo-2048/video-generate.git"
+  },
+  "author": "Paulo Vitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paulo-2048/video-generate/issues"
+  },
+  "homepage": "https://github.com/Paulo-2048/video-generate#readme",
+  "devDependencies": {
+    "@types/google-spreadsheet": "^4.0.0",
+    "@types/node": "^20.8.4",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "google-auth-library": "^8.9.0",
+    "google-spreadsheet": "^4.1.0"
+  }
+}
